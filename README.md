@@ -4,4 +4,4 @@ using loops, arrays, prompts, functions, DOM, dot notation, variables and alerts
 
 [link to deployed](https://adriana-didden.github.io/Random-Password-Generator/)
 
-![./assets/images/screenshot.png]
+![screenshot](./assets/images/screenshot.png)
